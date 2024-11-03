@@ -1,2 +1,3 @@
 # NAFTE
-##### Upcomming Rust Terminal Emulator! 🚀🧙‍♂️
+---
+Upcomming Rust Terminal Emulator! 🚀🧙‍♂️
