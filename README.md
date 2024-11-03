@@ -1,2 +1,2 @@
-# <img src="assets/logo.png" width="64" /> - NAFTE
+# <img src="assets/logo.png" width="32" /> - NAFTE
 Upcomming Rust Terminal Emulator! 🚀🧙‍♂️
